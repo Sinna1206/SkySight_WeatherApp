@@ -10,6 +10,9 @@ Project Name: SkySight - Live Weather Site
 
 Project Aim: The aim of this app is to show the weather forcast in real time. It uses elements such a daily temperature, wind speed, humidity, a clock and a search bar. This gives the user an accurate depiction of temperature, windspeed and humidity in a particular city in real time.
 
+### API Dependency
+
+Open Weather API- https://openweathermap.org/current
 
 ### Use Cases
 
@@ -23,10 +26,9 @@ Event Planning: Event organizers use weather forecasts to plan outdoor events su
 
 ### Strengths
 
-Trust-worthy Real Time Weather Report
-
-API Generated Data
-Responsive User Interface
+1. Trust-worthy Real Time Weather Report
+2. API Generated Data
+3. Responsive User Interface
 
 
 ### Limitations
