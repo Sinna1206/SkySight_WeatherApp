@@ -44,6 +44,12 @@ Responsive User Interface
 4. Advanced Error Handling: Implement more advanced error handling and user feedback mechanisms.
 5. UI Enhancements: Further enhance the user interface and user experience with animations and transitions.
 
+# Installation
+
+Before running the project, you need to install the necessary node modules. Run the following command in the root directory of the project:
+
+### npm install
+
 
 # Getting Started with Create React App
 
@@ -60,11 +66,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
