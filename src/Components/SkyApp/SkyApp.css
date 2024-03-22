@@ -104,11 +104,11 @@
         font-size: 2rem;
     }
     .weather-temp {
-        font-size: 4rem; 
+        font-size: 2rem; 
     }
 
     .weather-location {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     .data {
