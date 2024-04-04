@@ -13,6 +13,7 @@ Project Aim: The aim of this app is to show the weather forcast in real time. It
 ### API Dependency
 
 Open Weather API- https://openweathermap.org/current
+In the File src/Components/SkyApp/SkyApp.jsx update your API Key for the App to work
 
 ### Use Cases
 
