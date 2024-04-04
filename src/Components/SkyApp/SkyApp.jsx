@@ -25,7 +25,7 @@ import thunderstorm_icon from '../Assets/thunderstorm.png';
 import clock_icon from '../Assets/clock.png';
 
 const SkyApp = () => {
-    let api_key = "ecd0fe7e8867af3dadf51911ca6bdddc";
+    let api_key = "YOUR_API_KEY";
     const [weatherIcon, setWeatherIcon] = useState('');
     const [humidity, setHumidity] = useState('');
     const [wind, setWind] = useState('');
